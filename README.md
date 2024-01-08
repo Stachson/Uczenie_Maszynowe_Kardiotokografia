@@ -1,0 +1,2 @@
+# Uczenie_Maszynowe_Kardiotokografia
+Klasyfikacja nadzorowana - kardiotokografia
